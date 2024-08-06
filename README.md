@@ -3,3 +3,10 @@ The goal of this task is to explore the characteristics, distributions, correlat
 
 ## Dataset
 The dataset used for this analysis is the World Population Dataset. It contains population data from 1970 to 2022 for countries around the world. The dataset provides insights into population trends over time
+
+## Dependencies
+- Python
+- pandas
+- numpy
+- matplotlib
+- seaborn

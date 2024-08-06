@@ -7,6 +7,5 @@ The dataset used for this analysis is the World Population Dataset. It contains 
 ## Dependencies
 - Python
 - pandas
-- numpy
 - matplotlib
 - seaborn

@@ -11,9 +11,6 @@ The dataset used for this analysis is the World Population Dataset. It contains 
 - seaborn
 
 ## Elements
-Correlation Heatmap of Population Years
-![Screenshot 2024-08-07 110019](https://github.com/user-attachments/assets/14218bd9-944c-4902-8735-bc11152f4efb)
-
 Line Plot of DataFrame
 ![Screenshot 2024-08-07 110159](https://github.com/user-attachments/assets/5b7841fc-dd41-472e-bd07-c46970e0181e)
 
@@ -23,8 +20,11 @@ Histogram showing the distribution of population over time
 Scatter Plot showing the relation between different population years
 ![image](https://github.com/user-attachments/assets/20c51469-7fd7-45e4-aa63-48111019f63c)
 
+Correlation Heatmap of Population Years
+![image](https://github.com/user-attachments/assets/4a7488cc-2414-4964-877a-da9a35052c1e)
 
-
+Pair Plot of population years
+![image](https://github.com/user-attachments/assets/fe51b4b4-1d90-46ac-918e-5190e2c1f843)
 
 
 

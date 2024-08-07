@@ -14,8 +14,16 @@ The dataset used for this analysis is the World Population Dataset. It contains 
 Correlation Heatmap of Population Years
 ![Screenshot 2024-08-07 110019](https://github.com/user-attachments/assets/14218bd9-944c-4902-8735-bc11152f4efb)
 
-Line Plot of Dataframe
+Line Plot of DataFrame
 ![Screenshot 2024-08-07 110159](https://github.com/user-attachments/assets/5b7841fc-dd41-472e-bd07-c46970e0181e)
+
+Histogram showing the distribution of population over time
+![image](https://github.com/user-attachments/assets/e05431c8-f7a6-461e-a645-d40c4222eeeb)
+
+Scatter Plot showing the relation between different population years
+![image](https://github.com/user-attachments/assets/20c51469-7fd7-45e4-aa63-48111019f63c)
+
+
 
 
 

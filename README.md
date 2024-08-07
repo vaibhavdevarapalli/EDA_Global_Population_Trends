@@ -1,4 +1,4 @@
-## Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 The goal of this task is to explore the characteristics, distributions, correlations, and outliers present in a dataset. I gained insights into the data through visualizations such as histograms, scatter plots, and heatmaps. This repository contains the code and visualizations for the task of Exploratory Data Analysis (EDA) performed on a dataset using Python libraries like pandas, matplotlib, and seaborn.
 
 ## Dataset

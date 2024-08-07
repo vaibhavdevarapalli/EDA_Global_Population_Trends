@@ -9,3 +9,14 @@ The dataset used for this analysis is the World Population Dataset. It contains 
 - pandas
 - matplotlib
 - seaborn
+
+## Elements
+Correlation Heatmap of Population Years
+![Screenshot 2024-08-07 110019](https://github.com/user-attachments/assets/14218bd9-944c-4902-8735-bc11152f4efb)
+
+Line Plot of Dataframe
+![Screenshot 2024-08-07 110159](https://github.com/user-attachments/assets/5b7841fc-dd41-472e-bd07-c46970e0181e)
+
+
+
+
